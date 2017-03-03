@@ -1,2 +1,2 @@
 # hello-world
-Replace Android OS with chrome OS on the Nexus 5x
+Replace Android OS with Chrome OS on the Nexus 5x
